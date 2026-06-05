@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiosqlite
+alembic
+pydantic
+pydantic-settings
+httpx
+python-multipart
+python-docx
+PyPDF2
+markdown
+sse-starlette
